@@ -369,7 +369,7 @@ const yoKaiList = [
     { name: "Robodraqui", img: "Robodraqui.png" },
     { name: "Maravinyan", img: "Maravinyan.png" },
     { name: "Robonyan 2.0", img: "Robonyan_2.0.png" },
-    { name: "pedazodeputa", img: "Sailornyan.png" },
+    { name: "Sailornyan", img: "Sailornyan.png" },
     { name: "Tigrenyan", img: "Tigrenyan.png" },
     { name: "Hovernyan", img: "Hovernyan.png" },
     { name: "Darknyan", img: "Darknyan.png" },
